@@ -21,5 +21,6 @@ int main(int argc, char *argv[])
             TicTacToeMinimax::benchmarkMinimaxVsMinimax(0, true);
         }
     }
+    printf("main end\n");
     return 0;
 }
